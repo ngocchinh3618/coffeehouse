@@ -133,7 +133,7 @@ export default {
       this.drink = dataJson[0]
       this.selectedDrink = dataJson[0]
       this.selectedDrink.size = {
-        drinkSize: 'Nhỏ',
+        drinkSize: 'Vừa',
         priceSize: 0
       }
     },
